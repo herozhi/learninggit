@@ -1,0 +1,26 @@
+# This file is a template, and might need editing before it works on your project.
+image: hub.byted.org/toutiao.compile_golang.1_11:1.0.0.4
+
+variables:
+  # Please edit to your GitLab project
+  REPO_NAME: code.byted.org/gopkg/thrift
+
+# The problem is that to be able to use go get, one needs to put
+# the repository in the $GOPATH. So for example if your gitlab domain
+# is gitlab.com, and that your repository is namespace/project, and
+# the default GOPATH being /go, then you'd need to have your
+# repository in /go/src/gitlab.com/namespace/project
+# Thus, making a symbolic link corrects this.
+before_script:
+  - export PATH="$GOROOT/bin:$GOPATH/bin:$PATH"
+  - mkdir -p $GOPATH/src/$(dirname $REPO_NAME)
+  - ln -svf $CI_PROJECT_DIR $GOPATH/src/$REPO_NAME
+  - cd $GOPATH/src/$REPO_NAME
+
+stages:
+    - test
+
+format:
+    stage: test
+    script:
+      - go test -v -cover -bench -race ./...

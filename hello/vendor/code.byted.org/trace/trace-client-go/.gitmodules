@@ -1,0 +1,3 @@
+[submodule "jaeger-client/idl"]
+	path = jaeger-client/idl
+	url = git@code.byted.org:trace/trace-idl

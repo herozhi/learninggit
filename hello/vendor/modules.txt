@@ -1,0 +1,367 @@
+# code.byted.org/gin/ginex v1.6.12
+## explicit
+code.byted.org/gin/ginex
+code.byted.org/gin/ginex/accesslog
+code.byted.org/gin/ginex/apimetrics
+code.byted.org/gin/ginex/compress
+code.byted.org/gin/ginex/configstorer
+code.byted.org/gin/ginex/ctx
+code.byted.org/gin/ginex/internal
+code.byted.org/gin/ginex/internal/util
+code.byted.org/gin/ginex/net
+code.byted.org/gin/ginex/render
+code.byted.org/gin/ginex/stress
+code.byted.org/gin/ginex/throttle
+code.byted.org/gin/ginex/whale
+# code.byted.org/golf/consul v2.1.1+incompatible
+## explicit
+code.byted.org/golf/consul
+# code.byted.org/golf/ssconf v0.0.0-20181012074523-26ac8c57bda9
+code.byted.org/golf/ssconf
+# code.byted.org/gopkg/asyncache v0.0.0-20190912055454-a5671f0eaeae
+code.byted.org/gopkg/asyncache
+# code.byted.org/gopkg/asynccache v0.0.0-20200420063529-b7b05811cabd
+code.byted.org/gopkg/asynccache
+# code.byted.org/gopkg/bytedmysql v0.1.3
+code.byted.org/gopkg/bytedmysql
+# code.byted.org/gopkg/circuitbreaker v3.6.2+incompatible
+code.byted.org/gopkg/circuitbreaker
+# code.byted.org/gopkg/consul v1.1.10
+## explicit
+code.byted.org/gopkg/consul
+code.byted.org/gopkg/consul/http
+# code.byted.org/gopkg/context v0.0.1
+code.byted.org/gopkg/context
+# code.byted.org/gopkg/ctxvalues v0.0.1
+code.byted.org/gopkg/ctxvalues
+# code.byted.org/gopkg/debug v0.9.0
+code.byted.org/gopkg/debug
+code.byted.org/gopkg/debug/internal/debug
+code.byted.org/gopkg/debug/internal/log
+code.byted.org/gopkg/debug/internal/runtime
+# code.byted.org/gopkg/env v1.3.3
+## explicit
+code.byted.org/gopkg/env
+# code.byted.org/gopkg/etcd_util v2.3.1+incompatible
+code.byted.org/gopkg/etcd_util
+code.byted.org/gopkg/etcd_util/client
+# code.byted.org/gopkg/etcdproxy v0.1.1
+code.byted.org/gopkg/etcdproxy
+code.byted.org/gopkg/etcdproxy/internal/singleflight
+# code.byted.org/gopkg/gorm v1.0.0
+## explicit
+code.byted.org/gopkg/gorm
+# code.byted.org/gopkg/gorm/v2 v2.0.5
+## explicit
+code.byted.org/gopkg/gorm/v2
+# code.byted.org/gopkg/idgenerator v1.0.7
+## explicit
+code.byted.org/gopkg/idgenerator
+# code.byted.org/gopkg/inmem v0.0.0-20160307065501-3f78b53a5200
+## explicit
+code.byted.org/gopkg/inmem
+# code.byted.org/gopkg/logid v0.0.0-20200825073124-b8a1653a3619
+code.byted.org/gopkg/logid
+# code.byted.org/gopkg/logs v1.1.7
+## explicit
+code.byted.org/gopkg/logs
+code.byted.org/gopkg/logs/clients/databus
+code.byted.org/gopkg/logs/provider
+code.byted.org/gopkg/logs/utils
+# code.byted.org/gopkg/metainfo v0.0.5
+## explicit
+code.byted.org/gopkg/metainfo
+# code.byted.org/gopkg/metrics v1.4.1
+## explicit
+code.byted.org/gopkg/metrics
+# code.byted.org/gopkg/mysql-driver v1.1.2
+## explicit
+code.byted.org/gopkg/mysql-driver
+code.byted.org/gopkg/mysql-driver/trace/ext
+code.byted.org/gopkg/mysql-driver/trace/post-trace
+# code.byted.org/gopkg/net2 v1.0.0
+code.byted.org/gopkg/net2
+# code.byted.org/gopkg/rand v0.0.0-20200622102840-8cd9b682e5b4
+code.byted.org/gopkg/rand
+# code.byted.org/gopkg/rwlock v0.0.9
+code.byted.org/gopkg/rwlock
+# code.byted.org/gopkg/singleflight v0.0.0-20200508020530-47758763028a
+## explicit
+code.byted.org/gopkg/singleflight
+# code.byted.org/gopkg/stats v1.0.1
+code.byted.org/gopkg/stats
+# code.byted.org/gopkg/tccclient v1.2.17
+## explicit
+code.byted.org/gopkg/tccclient
+code.byted.org/gopkg/tccclient/bconfig
+# code.byted.org/gopkg/thrift v1.4.14
+## explicit
+code.byted.org/gopkg/thrift
+# code.byted.org/hystrix/hystrix-go v0.0.0-20190214095017-a2a890c81cd5
+code.byted.org/hystrix/hystrix-go/hystrix
+code.byted.org/hystrix/hystrix-go/hystrix/metric_collector
+code.byted.org/hystrix/hystrix-go/hystrix/rolling
+# code.byted.org/inf/infsecc v1.0.1
+## explicit
+code.byted.org/inf/infsecc
+# code.byted.org/kite/endpoint v3.7.5+incompatible
+## explicit
+code.byted.org/kite/endpoint
+# code.byted.org/kite/kitc v3.10.6+incompatible
+## explicit
+code.byted.org/kite/kitc
+code.byted.org/kite/kitc/connpool
+code.byted.org/kite/kitc/discovery
+code.byted.org/kite/kitc/loadbalancer
+# code.byted.org/kite/kite v3.9.23+incompatible
+## explicit
+code.byted.org/kite/kite
+code.byted.org/kite/kite/gls
+code.byted.org/kite/kite/ratelimit
+# code.byted.org/kite/kitutil v3.7.17+incompatible
+## explicit
+code.byted.org/kite/kitutil
+code.byted.org/kite/kitutil/cache
+code.byted.org/kite/kitutil/kiterrno
+code.byted.org/kite/kitutil/kitevent
+code.byted.org/kite/kitutil/kvstore
+# code.byted.org/kv/backoff v0.0.0-20191031070508-5d868504e646
+## explicit
+code.byted.org/kv/backoff
+# code.byted.org/kv/circuitbreaker v0.0.0-20200212034351-d3f51a5b9165
+## explicit
+code.byted.org/kv/circuitbreaker
+# code.byted.org/kv/goredis v5.1.1+incompatible
+## explicit
+code.byted.org/kv/goredis
+code.byted.org/kv/goredis/trace/ext
+code.byted.org/kv/goredis/trace/post-trace
+# code.byted.org/kv/redis-v6 v1.0.1
+## explicit
+code.byted.org/kv/redis-v6
+code.byted.org/kv/redis-v6/pkg
+code.byted.org/kv/redis-v6/pkg/consistenthash
+code.byted.org/kv/redis-v6/pkg/hashtag
+code.byted.org/kv/redis-v6/pkg/pool
+code.byted.org/kv/redis-v6/pkg/proto
+# code.byted.org/log_market/gosdk v0.0.0-20200901112613-614e08663524
+code.byted.org/log_market/gosdk
+code.byted.org/log_market/gosdk/internal/ratelimit
+# code.byted.org/log_market/ttlogagent_gosdk v0.0.0-20200901112126-c52bdf14c848
+## explicit
+code.byted.org/log_market/ttlogagent_gosdk
+# code.byted.org/middleware/framework_version_collector_client v3.2.0+incompatible
+code.byted.org/middleware/framework_version_collector_client
+code.byted.org/middleware/framework_version_collector_client/model
+code.byted.org/middleware/framework_version_collector_client/v1
+# code.byted.org/trace/trace-client-go v1.3.4
+## explicit
+code.byted.org/trace/trace-client-go
+code.byted.org/trace/trace-client-go/ext
+code.byted.org/trace/trace-client-go/jaeger-client
+code.byted.org/trace/trace-client-go/jaeger-client/internal/baggage
+code.byted.org/trace/trace-client-go/jaeger-client/internal/throttler
+code.byted.org/trace/trace-client-go/jaeger-client/log
+code.byted.org/trace/trace-client-go/jaeger-client/thrift-gen/agent
+code.byted.org/trace/trace-client-go/jaeger-client/thrift-gen/jaeger
+code.byted.org/trace/trace-client-go/jaeger-client/thrift-gen/sampling
+code.byted.org/trace/trace-client-go/jaeger-client/utils
+code.byted.org/trace/trace-client-go/jaeger-lib/metrics
+code.byted.org/trace/trace-client-go/post-trace
+code.byted.org/trace/trace-client-go/utils
+# git.byted.org/ttgame/platform/nvwa v0.0.0-20200915082126-ed46deb6abb3
+## explicit
+git.byted.org/ttgame/platform/nvwa/conf
+git.byted.org/ttgame/platform/nvwa/mysql_aux
+git.byted.org/ttgame/platform/nvwa/redis_aux
+# git.byted.org/ttgame/platform/nvwa/environ v0.0.0-20200915082126-ed46deb6abb3
+## explicit
+git.byted.org/ttgame/platform/nvwa/environ
+# github.com/TTvcloud/vcloud-sdk-golang v1.0.17
+## explicit
+github.com/TTvcloud/vcloud-sdk-golang/base
+github.com/TTvcloud/vcloud-sdk-golang/service/imagex
+# github.com/alicebob/gopher-json v0.0.0-20200520072559-a9ecdc9d1d3a
+## explicit
+# github.com/alicebob/miniredis v2.5.0+incompatible
+## explicit
+# github.com/andybalholm/brotli v1.0.0
+github.com/andybalholm/brotli
+# github.com/cespare/xxhash v1.1.0
+github.com/cespare/xxhash
+# github.com/choleraehyq/pid v0.0.9
+github.com/choleraehyq/pid
+# github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd
+github.com/codahale/hdrhistogram
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+## explicit
+github.com/dgrijalva/jwt-go
+# github.com/facebookgo/clock v0.0.0-20150410010913-600d898af40a
+## explicit
+github.com/facebookgo/clock
+# github.com/fsnotify/fsnotify v1.4.9
+github.com/fsnotify/fsnotify
+# github.com/gin-contrib/sse v0.1.0
+github.com/gin-contrib/sse
+# github.com/gin-gonic/gin v1.6.3
+## explicit
+github.com/gin-gonic/gin
+github.com/gin-gonic/gin/binding
+github.com/gin-gonic/gin/internal/bytesconv
+github.com/gin-gonic/gin/internal/json
+github.com/gin-gonic/gin/render
+# github.com/go-playground/locales v0.13.0
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+# github.com/go-playground/universal-translator v0.17.0
+github.com/go-playground/universal-translator
+# github.com/go-playground/validator/v10 v10.3.0
+## explicit
+github.com/go-playground/validator/v10
+# github.com/go-sql-driver/mysql v1.5.0
+github.com/go-sql-driver/mysql
+# github.com/gogo/protobuf v1.3.1
+github.com/gogo/protobuf/proto
+# github.com/golang/protobuf v1.4.2
+## explicit
+github.com/golang/protobuf/proto
+# github.com/gomodule/redigo v1.8.2
+## explicit
+# github.com/google/uuid v1.1.2
+## explicit
+github.com/google/uuid
+# github.com/gorilla/mux v1.8.0
+github.com/gorilla/mux
+# github.com/hashicorp/hcl v1.0.0
+github.com/hashicorp/hcl
+github.com/hashicorp/hcl/hcl/ast
+github.com/hashicorp/hcl/hcl/parser
+github.com/hashicorp/hcl/hcl/printer
+github.com/hashicorp/hcl/hcl/scanner
+github.com/hashicorp/hcl/hcl/strconv
+github.com/hashicorp/hcl/hcl/token
+github.com/hashicorp/hcl/json/parser
+github.com/hashicorp/hcl/json/scanner
+github.com/hashicorp/hcl/json/token
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.1
+github.com/jinzhu/now
+# github.com/json-iterator/go v1.1.10
+github.com/json-iterator/go
+# github.com/juju/ratelimit v1.0.1
+github.com/juju/ratelimit
+# github.com/kuangchanglang/graceful v1.0.2
+github.com/kuangchanglang/graceful
+# github.com/leodido/go-urn v1.2.0
+github.com/leodido/go-urn
+# github.com/magiconair/properties v1.8.3
+## explicit
+github.com/magiconair/properties
+# github.com/mattn/go-isatty v0.0.12
+github.com/mattn/go-isatty
+# github.com/mitchellh/mapstructure v1.3.3
+## explicit
+github.com/mitchellh/mapstructure
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.1
+github.com/modern-go/reflect2
+# github.com/onsi/ginkgo v1.14.0
+## explicit
+# github.com/opentracing/opentracing-go v1.2.0
+github.com/opentracing/opentracing-go
+github.com/opentracing/opentracing-go/ext
+github.com/opentracing/opentracing-go/log
+# github.com/pelletier/go-toml v1.8.1
+## explicit
+github.com/pelletier/go-toml
+# github.com/peterbourgon/g2s v0.0.0-20170223122336-d4e7ad98afea
+## explicit
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/spf13/afero v1.4.0
+## explicit
+github.com/spf13/afero
+github.com/spf13/afero/mem
+# github.com/spf13/cast v1.3.1
+## explicit
+github.com/spf13/cast
+# github.com/spf13/jwalterweatherman v1.1.0
+## explicit
+github.com/spf13/jwalterweatherman
+# github.com/spf13/pflag v1.0.5
+## explicit
+github.com/spf13/pflag
+# github.com/spf13/viper v1.7.1
+## explicit
+github.com/spf13/viper
+# github.com/subosito/gotenv v1.2.0
+github.com/subosito/gotenv
+# github.com/ugorji/go v1.1.8
+## explicit
+# github.com/ugorji/go/codec v1.1.8
+github.com/ugorji/go/codec
+# github.com/yuin/gopher-lua v0.0.0-20200603152657-dc2b0ca8b37e
+## explicit
+# golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
+golang.org/x/sync/singleflight
+# golang.org/x/sys v0.0.0-20200915084602-288bc346aa39
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.3
+## explicit
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
+# google.golang.org/protobuf v1.25.0
+google.golang.org/protobuf/encoding/prototext
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/descfmt
+google.golang.org/protobuf/internal/descopts
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/defval
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/encoding/tag
+google.golang.org/protobuf/internal/encoding/text
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/fieldsort
+google.golang.org/protobuf/internal/filedesc
+google.golang.org/protobuf/internal/filetype
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/genid
+google.golang.org/protobuf/internal/impl
+google.golang.org/protobuf/internal/mapsort
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/set
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/internal/version
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+google.golang.org/protobuf/runtime/protoimpl
+# gopkg.in/ini.v1 v1.61.0
+## explicit
+gopkg.in/ini.v1
+# gopkg.in/yaml.v2 v2.3.0
+gopkg.in/yaml.v2
+# gorm.io/driver/mysql v1.0.1
+gorm.io/driver/mysql
+# gorm.io/gorm v1.20.1
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
+# gorm.io/plugin/dbresolver v1.0.0
+## explicit
+gorm.io/plugin/dbresolver

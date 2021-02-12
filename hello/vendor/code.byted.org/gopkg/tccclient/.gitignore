@@ -1,0 +1,11 @@
+*~
+.#*
+\#*#
+
+*.sw[op]
+
+*.pyc
+.DS_Store
+
+.idea/
+*.iml
