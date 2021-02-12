@@ -1,1 +1,0 @@
-# DEPRECATED! Please use https://pkg.go.dev/golang.org/x/sync/singleflight
