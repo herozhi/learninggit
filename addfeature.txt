@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< e HEAD
 add yyyy e ezzzz some youxiude eature
 hahahhhh ee jjjjjjj
@@ -5,3 +6,7 @@ hahahhhh ee jjjjjjj
 add qqqqe soemee feature
 hahahehhehe
 >>>>>>>e dev2
+=======
+addeee zzzzeee some ee feature
+jjjeejjjj
+>>>>>>> zhi_feature
