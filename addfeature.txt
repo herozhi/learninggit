@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 add yyyy zzzz some feature
 hahahhhh jjjjjjj
+=======
+add qqqq some feature
+hahahhhh
+>>>>>>> dev2
