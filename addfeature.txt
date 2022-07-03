@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-add yyyy zzzz some youxiude eature
-hahahhhh jjjjjjj
+<<<<<<< e HEAD
+add yyyy e ezzzz some youxiude eature
+hahahhhh ee jjjjjjj
 =======
-add qqqq some feature
-hahahhhh
->>>>>>> dev2
+add qqqqe soemee feature
+hahahehhehe
+>>>>>>>e dev2
